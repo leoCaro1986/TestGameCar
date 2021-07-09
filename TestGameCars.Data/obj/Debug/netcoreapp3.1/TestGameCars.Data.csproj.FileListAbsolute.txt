@@ -1,0 +1,14 @@
+C:\Users\HP\TestGameCars\TestGameCars.Data\bin\Debug\netcoreapp3.1\TestGameCars.exe
+C:\Users\HP\TestGameCars\TestGameCars.Data\bin\Debug\netcoreapp3.1\TestGameCars.Data.deps.json
+C:\Users\HP\TestGameCars\TestGameCars.Data\bin\Debug\netcoreapp3.1\TestGameCars.Data.runtimeconfig.json
+C:\Users\HP\TestGameCars\TestGameCars.Data\bin\Debug\netcoreapp3.1\TestGameCars.Data.runtimeconfig.dev.json
+C:\Users\HP\TestGameCars\TestGameCars.Data\bin\Debug\netcoreapp3.1\TestGameCars.Data.dll
+C:\Users\HP\TestGameCars\TestGameCars.Data\bin\Debug\netcoreapp3.1\TestGameCars.Data.pdb
+C:\Users\HP\TestGameCars\TestGameCars.Data\bin\Debug\netcoreapp3.1\TestGameCars.dll
+C:\Users\HP\TestGameCars\TestGameCars.Data\bin\Debug\netcoreapp3.1\TestGameCars.pdb
+C:\Users\HP\TestGameCars\TestGameCars.Data\obj\Debug\netcoreapp3.1\TestGameCars.Data.csprojAssemblyReference.cache
+C:\Users\HP\TestGameCars\TestGameCars.Data\obj\Debug\netcoreapp3.1\TestGameCars.Data.AssemblyInfoInputs.cache
+C:\Users\HP\TestGameCars\TestGameCars.Data\obj\Debug\netcoreapp3.1\TestGameCars.Data.AssemblyInfo.cs
+C:\Users\HP\TestGameCars\TestGameCars.Data\obj\Debug\netcoreapp3.1\TestGameCars.Data.csproj.CopyComplete
+C:\Users\HP\TestGameCars\TestGameCars.Data\obj\Debug\netcoreapp3.1\TestGameCars.Data.dll
+C:\Users\HP\TestGameCars\TestGameCars.Data\obj\Debug\netcoreapp3.1\TestGameCars.Data.pdb
